@@ -1,5 +1,11 @@
-# Ecoloop
+## Ecoloop
 EcoLoop is a sustainability-focused open-source marketplace designed to promote reuse and reduce environmental waste. It allows startups to list eco-friendly products while also enabling individuals to sell or give away unused items at minimal or no cost.
+
+
+
+# Folder Structure
+
+<img width="161" height="112" alt="image" src="https://github.com/user-attachments/assets/7996005d-e9a5-48c7-92cf-15d385203b97" />
 
 eco-marketplace/
 │── client/        # Frontend (React/Next.js)
